@@ -1,6 +1,9 @@
 # comp-distrib
 # Computação Distribuída: Disponibilidade em Sistemas Replicados
 
+**Aluno:** Igor Honório de Paiva Pontes  
+**Matrícula:** 2315064
+
 Este repositório contém a resolução dos exercícios 1.1 e 1.2. O trabalho foca na análise probabilística da disponibilidade de serviços replicados sob diferentes estratégias de consistência.
 
 ---
