@@ -4,6 +4,10 @@
 **Aluno:** Igor Honório de Paiva Pontes  
 **Matrícula:** 2315064
 
+**Aluno:** Raul Tiezzi Henriques  
+**Matrícula:** 1810521
+
+
 Este repositório contém a resolução dos exercícios 1.1 e 1.2. O trabalho foca na análise probabilística da disponibilidade de serviços replicados sob diferentes estratégias de consistência.
 
 ---
