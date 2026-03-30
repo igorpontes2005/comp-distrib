@@ -53,4 +53,16 @@ Foi implementado um script em Python para validar as fórmulas e visualizar o co
 
 ---
 
+## 🚀 Como Executar o Projeto
+
+Siga os passos abaixo para rodar a simulação e gerar os gráficos em sua máquina local.
+
+### 1. Pré-requisitos
+Você precisará do **Python 3.x** instalado. Além disso, o script utiliza a biblioteca `matplotlib` para a geração dos gráficos.
+
+### 2. Instalação de Dependências
+Abra o seu terminal e instale a biblioteca necessária via pip:
+```bash
+pip install matplotlib
+
 
